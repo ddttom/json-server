@@ -1,4 +1,4 @@
-# JSON Server [![](https://travis-ci.org/typicode/json-server.svg?branch=master)](https://travis-ci.org/typicode/json-server) [![](https://badge.fury.io/js/json-server.svg)](http://badge.fury.io/js/json-server)
+# JSON Server [![Node.js CI](https://github.com/typicode/json-server/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/typicode/json-server/actions/workflows/node.js.yml)
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
 
@@ -29,21 +29,33 @@ See also:
 
 <p align="center">
   <a href="https://mockend.com/" target="_blank">
-    <img src="https://mockend.com/static/banner.svg" height="70px">
+    <img src="https://jsonplaceholder.typicode.com/mockend.svg" height="70px">
   </a>
 </p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
----
-
-From generating an API to importing a CSV into postgres, Retool’s range of 20+ developer utilities is a go-to resource when building apps. [Check it out now](https://retool.com/utilities/)
-
----
+<p align="center">
+  <a href="https://www.deta.sh/?ref=typicode" target="_blank">
+    <img src="https://jsonplaceholder.typicode.com/deta.svg" height="70px">
+  </a>
+</p>
 
 <p>&nbsp;</p>
+
+<p align="center">
+  <a href="https://uibakery.io/?utm_source=json_server&utm_medium=sponsor&utm_campaign=github" target="_blank">
+    <img src="https://jsonplaceholder.typicode.com/ui_bakery.jpg" height="70px">
+  </a>
+</p>
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <a href="https://flowdash.com" target="_blank">
+    <img src="https://jsonplaceholder.typicode.com/Flowdash-logo-text.png" height="70px">
+  </a>
+</p>
 
 <p>&nbsp;</p>
 
